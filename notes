@@ -50,5 +50,10 @@ Common Pitfalls to Avoid:
 5. Complex Layouts -> keep layout simple and semantic
 6. Only Automated Accessibility Tools
 
+leave the alt text as blank if it is decorative, otherwise put in alt text
+use longdescription if there is a large description instead of alttext
+perform some easy checks
+w3.com preliminary test evaluation
+webdev toolbar - web developer extension for firefox
 
-
+deque university free checklist
