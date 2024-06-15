@@ -9,9 +9,23 @@ title 3 in private business accessability protection
 mobile accessability is included
 
 needs to be:
-percievable
-operable
-understandable
-robust 
-WCAG 2.1 or later
+percievable: viewable for all users ie. alt text
+operable: navigatable ie. keyboard navigation, be mindful of the structure of the webpage, use headings, don't just make the text bigger
+understandable: clear language and consistent navigation
+robust: ensure compatibility with various assistive technologies
+
+How to comply:
+Provide alt text for images
+  color contrast
+  make forms accessible - clear labels, error messages, proper field grouping
+  keyboard navigation
+  test them using assistive technologies, test interactions
+  train for making sites accessible
+android uses talk back
+mac uses voice over
+pc uses jaws
+WCAG 2.1 Guidelines or later
 prioritize 2.1 before moving into 2.2
+regularly update to meet with compliance
+
+DEI - Diversity, Equity,and Inclusion
