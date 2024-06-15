@@ -29,3 +29,11 @@ prioritize 2.1 before moving into 2.2
 regularly update to meet with compliance
 
 DEI - Diversity, Equity,and Inclusion
+WCAG - Web Content Accessiblity Guidelines -> global guidelines
+Section 508 addresses electronic and information technology, mandates that it must be accessible to people with disabilities -> USA specific
+
+prioritize accessibility improvements
+1. audit and identity and then prioritize (critical errors to minor enhancements) -> navigation is the most important
+2. legal requirements -> ADA Compliance 
+3. High-Traffic Pages -> prioritize pages with high traffic or critical functions (ie login, checkout)
+4. Common Elements -> focus on shared components that affect multiple pages (ie headers, navigation, forms) so if the logo generates an error and its on every page it will generate an error for every page, so fixing it will get rid of every error it created
