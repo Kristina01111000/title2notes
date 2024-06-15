@@ -44,7 +44,7 @@ prioritize accessibility improvements
 
 Common Pitfalls to Avoid:
 1. ignoring Alt text
-2. Insufficient color contrast for text against backgrounds -> WCAG has scores based on font size
+2. Insufficient color contrast for text against backgrounds -> WCAG has scores based on font size -> contract ratio is different for different text sizes
 3. Keyboard Only Navigation Issues -> ensure interactive elements are accessible with keyboard only
 4. Inaccessible Forms
 5. Complex Layouts -> keep layout simple and semantic
@@ -57,3 +57,8 @@ w3.com preliminary test evaluation
 webdev toolbar - web developer extension for firefox
 
 deque university free checklist
+they have a free trial for dev tools, lets you pull down an excel spreadsheet report, costs ~ $45 a month
+
+andi is an accessibility tool recommended by the government
+
+look at B.A.D. website for an example of a inaccessible website and then a fixed website, its on w3.org
